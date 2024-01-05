@@ -1,16 +1,16 @@
 ### 第４回課題
 
-### ![VPC](lecture4/VPC.png)
+### ![VPC](lecture04images/VPC.png)
 
-### ![EC2](lecture4/EC2.png)
-## ![EC2セキュリティグループ](lecture4/EC2-securitygroup.png)
+### ![EC2](lecture04images/EC2.png)
+## ![EC2セキュリティグループ](lecture04images/EC2-securitygroup.png)
 
-### ![RDS](lecture4/RDS.png)
- ## ![RDSセキュリティグループ](lecture4/RDS-securitygroup.png)
+### ![RDS](lecture04images/RDS.png)
+ ## ![RDSセキュリティグループ](lecture04images/RDS-securitygroup.png)
 
-### ![ローカルPCからEC2インスタンスへSSH接続](lecture4/SSHconnect.png)
+### ![ローカルPCからEC2インスタンスへSSH接続](lecture04images/SSHconnect.png)
  
-### ![EC2からRDSのMysqlへ接続](lecture4/EC2-RDS.png)
+### ![EC2からRDSのMysqlへ接続](lecture04images/EC2-RDS.png)
  
 
 - EC2からRDSへ接続するという理解が難しかったが、図に書くとイメージができるようになった。
